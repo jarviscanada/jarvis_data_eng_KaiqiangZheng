@@ -98,8 +98,8 @@ Describe the schema of each table using markdown table syntax (do not put any sq
 | cpu_number       | INT         | Number of CPU cores      |
 | cpu_architecture | VARCHAR     | CPU architecture type    |
 | cpu_model        | VARCHAR     | CPU model name           |
-| total_mem        | BIGINT      | Total memory in kB       |
-| timestamp        | TIMESTAMP   | Data collection time     |
+| timestamp        | TIMESTAMP   | Total memory in MB       |
+| total_mem        | BIGINT      | Data collection time     |
 
 - `host_usage`
 
@@ -107,7 +107,7 @@ Describe the schema of each table using markdown table syntax (do not put any sq
 | -------------- | ----------- | ----------------------------------- |
 | timestamp      | TIMESTAMP   | Time of record collection           |
 | host_id        | SERIAL (FK) | Foreign key referencing `host_info` |
-| memory_free    | BIGINT      | Available memory in kB              |
+| memory_free    | BIGINT      | Available memory in MB              |
 | cpu_idle       | INT         | CPU idle percentage                 |
 | cpu_kernel     | INT         | CPU kernel percentage               |
 | disk_io        | INT         | Disk I/O utilization                |
