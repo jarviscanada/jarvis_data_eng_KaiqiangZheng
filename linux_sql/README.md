@@ -58,7 +58,7 @@ Crontab Scheduler: automates periodic data collection
 📊 A visual diagram (created using draw.io) is located in the /assets directory as architecture.png.
 (assets/cluster_diagram.png)
 
-![Architecture Diagram](assets/cluster_diagram.png)
+![Architecture Diagram](assets/architecture.png)
 
 ### Scripts
 Shell script description and usage (use markdown code block for script usage)
