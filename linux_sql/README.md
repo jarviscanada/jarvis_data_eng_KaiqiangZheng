@@ -16,7 +16,6 @@ Key technologies include **Bash scripting**, **PostgreSQL**, **Docker**, and **G
 ```bash
 # 1️⃣ Start a PostgreSQL instance using Docker
 bash scripts/psql_docker.sh create postgres password
-bash scripts/psql_docker.sh start  (#Not necessary as it will start automatically after I run it)
 
 # 2️⃣ Create the database and tables
 -- connect to the psql instance
@@ -58,10 +57,10 @@ Crontab Scheduler: automates periodic data collection
 📊 A visual diagram (created using draw.io) is located in the /assets directory as architecture.png.
 (assets/cluster_diagram.png)
 
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](assets/architecture1.png)
 
 ### Scripts
-Shell script description and usage (use markdown code block for script usage)
+
 - psql_docker.sh
 ```bash
   - bash scripts/psql_docker.sh create postgres password
@@ -80,15 +79,15 @@ Shell script description and usage (use markdown code block for script usage)
 ```bash
   - * * * * * bash /home/centos/dev/jrvs/bootcamp/linux_sql/host_agent/scripts/host_usage.sh localhost 5432 host_agent postgres password > /tmp/host_usage.log 2>&1
 ```
-- queries.sql (describe what business problem you are trying to resolve)
+<!-- - queries.sql (describe what business problem you are trying to resolve)
   - Purpose: Example analytical queries for resource utilization.
     - Identify hosts with the lowest memory.
     - Compute average CPU idle time.
-    - Monitor disk usage trends.
+    - Monitor disk usage trends. -->
 
 
 ### Database Modeling
-Describe the schema of each table using markdown table syntax (do not put any sql code)
+
 - `host_info`
 
 | Column Name      | Data Type   | Description              |
@@ -115,7 +114,6 @@ Describe the schema of each table using markdown table syntax (do not put any sq
 
 
 ## Test
-How did you test your bash scripts DDL? What was the result
 
 1. Verify PostgreSQL container is running
 ```bash
@@ -131,7 +129,6 @@ psql -h localhost -U postgres -d host_agent -c "SELECT * FROM host_info;"
 psql -h localhost -U postgres -d host_agent -c "SELECT * FROM host_usage LIMIT 5;"
 ```
 ## Deployment
-How did you deploy your app? (e.g. Github, crontab, docker)
 
 1. Clone repository
 ```bash
@@ -170,7 +167,7 @@ crontab -e
 ```
 
 ## Improvements
-Write at least three things you want to improve 
+
 e.g. 
 1. Dynamic Host Update:
   - Automatically detect and update hardware configuration changes (e.g., CPU upgrades).
