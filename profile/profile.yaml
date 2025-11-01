@@ -78,7 +78,7 @@ jarvis_projects:
 # Feel free to add more projects
 highlighted_projects:
     #project name
-  - name: "SherlockGPT: Root Cause Analysis with Large Language Model "
+  - name: "SherlockGPT: Root Cause Analysis with Large Language Model"
     #URL is optional
     git_url: "https://github.com/KaiqiangZheng1/ECE1786"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
@@ -86,7 +86,7 @@ highlighted_projects:
   - name: "Sentiment Analysis for Customer Service Ticket Analysis"
     git_url: "https://github.com/KaiqiangZheng1/Customer-Sentiment-Analysis"
     description: Built and deployed a sentiment analysis application in Docker to classify customer service ticket sentiments. Integrated OpenAI¡¯s NLP API for text analysis and Gradio for an interactive web interface, enabling real-time visualization of sentiment trends and improving customer feedback insights.
-  - name: "Full Stack Semester Project "
+  - name: "Full Stack Semester Project"
     #git_url:
     description: Designed and implemented a full-stack web application using Django, Python, and MySQL for backend logic and data management. Built a responsive frontend using HTML, CSS, Bootstrap, and JavaScript. Containerized the application with Docker for consistent deployment, demonstrating proficiency in full-stack development and cloud deployment workflows.
 

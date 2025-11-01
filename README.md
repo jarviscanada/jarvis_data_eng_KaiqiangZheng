@@ -19,11 +19,11 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KaiqiangZh
 
 
 ## Highlighted Projects
-**SherlockGPT: Root Cause Analysis with Large Language Model ** [[GitHub](https://github.com/KaiqiangZheng1/ECE1786)]: Developed an automated Root Cause Analysis (RCA) engine leveraging large language models (GPT-4 via OpenAI API) and prompt engineering to identify incident root causes from cloud system logs and metrics. Designed a multi-agent architecture that iteratively analyzes and ranks potential causes. Utilized the LEMMA-RCA dataset for evaluation, enabling improved incident triage and decision-making efficiency.
+**SherlockGPT: Root Cause Analysis with Large Language Model** [[GitHub](https://github.com/KaiqiangZheng1/ECE1786)]: Developed an automated Root Cause Analysis (RCA) engine leveraging large language models (GPT-4 via OpenAI API) and prompt engineering to identify incident root causes from cloud system logs and metrics. Designed a multi-agent architecture that iteratively analyzes and ranks potential causes. Utilized the LEMMA-RCA dataset for evaluation, enabling improved incident triage and decision-making efficiency.
 
 **Sentiment Analysis for Customer Service Ticket Analysis** [[GitHub](https://github.com/KaiqiangZheng1/Customer-Sentiment-Analysis)]: Built and deployed a sentiment analysis application in Docker to classify customer service ticket sentiments. Integrated OpenAI¡¯s NLP API for text analysis and Gradio for an interactive web interface, enabling real-time visualization of sentiment trends and improving customer feedback insights.
 
-**Full Stack Semester Project **: Designed and implemented a full-stack web application using Django, Python, and MySQL for backend logic and data management. Built a responsive frontend using HTML, CSS, Bootstrap, and JavaScript. Containerized the application with Docker for consistent deployment, demonstrating proficiency in full-stack development and cloud deployment workflows.
+**Full Stack Semester Project**: Designed and implemented a full-stack web application using Django, Python, and MySQL for backend logic and data management. Built a responsive frontend using HTML, CSS, Bootstrap, and JavaScript. Containerized the application with Docker for consistent deployment, demonstrating proficiency in full-stack development and cloud deployment workflows.
 
 
 ## Professional Experiences
