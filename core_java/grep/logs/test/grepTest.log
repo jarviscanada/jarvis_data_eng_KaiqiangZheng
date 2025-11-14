@@ -1,0 +1,28 @@
+2025-11-14 05:18:46 INFO  ca.jrvs.apps.grep.JavaGrepImplTest - These are the files under the dir:
+[src/test/resources/shakespeare.txt, src/test/resources/logback.xml]
+2025-11-14 15:39:15 INFO  ca.jrvs.apps.grep.JavaGrepImplTest - These are the files under the dir:
+[src/test/resources/shakespeare.txt, src/test/resources/logback.xml]
+2025-11-14 16:21:48 INFO  ca.jrvs.apps.grep.JavaGrepImplTest - These are the files under the dir:
+[src/test/resources/shakespeare.txt, src/test/resources/logback.xml]
+2025-11-14 16:30:26 INFO  ca.jrvs.apps.grep.JavaGrepImplTest - These are the files under the dir:
+[src/test/resources/shakespeare.txt, src/test/resources/logback.xml]
+2025-11-14 16:32:28 INFO  ca.jrvs.apps.grep.JavaGrepImplTest - These are the files under the dir:
+[src/test/resources/shakespeare.txt, src/test/resources/logback.xml]
+2025-11-14 16:35:32 INFO  ca.jrvs.apps.grep.JavaGrepImplTest - These are the files under the dir:
+[src/test/resources/shakespeare.txt, src/test/resources/logback.xml]
+2025-11-14 16:36:07 INFO  ca.jrvs.apps.grep.JavaGrepImplTest - These are the files under the dir:
+[src/test/resources/shakespeare.txt, src/test/resources/logback.xml]
+2025-11-14 16:41:28 INFO  ca.jrvs.apps.grep.JavaGrepImplTest - These are the files under the dir:
+[src/test/resources/shakespeare.txt, src/test/resources/logback.xml]
+2025-11-14 16:44:54 INFO  ca.jrvs.apps.grep.JavaGrepImplTest - These are the files under the dir:
+[src/test/resources/shakespeare.txt, src/test/resources/logback.xml]
+2025-11-14 16:46:14 INFO  ca.jrvs.apps.grep.JavaGrepImplTest - These are the files under the dir:
+[src/test/resources/shakespeare.txt, src/test/resources/logback.xml]
+2025-11-14 16:48:00 INFO  ca.jrvs.apps.grep.JavaGrepImplTest - These are the files under the dir:
+[src/test/resources/shakespeare.txt, src/test/resources/logback.xml]
+2025-11-14 16:51:16 INFO  ca.jrvs.apps.grep.JavaGrepImplTest - These are the files under the dir:
+[src/test/resources/shakespeare.txt, src/test/resources/logback.xml]
+2025-11-14 16:51:41 INFO  ca.jrvs.apps.grep.JavaGrepImplTest - These are the files under the dir:
+[src/test/resources/shakespeare.txt, src/test/resources/logback.xml]
+2025-11-14 16:52:11 INFO  ca.jrvs.apps.grep.JavaGrepImplTest - These are the files under the dir:
+[src/test/resources/shakespeare.txt, src/test/resources/logback.xml]

@@ -5,7 +5,7 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_KaiqiangZh
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: I am a Software and AI Engineer with a Master's degree in Computer Engineering from the University of Toronto and a Bachelor's degree in Automation Engineering from McMaster University, specializing in Applied AI, Software Development and Cloud Computing. As an AI Web Application Research Associate at UofT, I developed and maintained responsive web applications using HTML, CSS, JavaScript, and React to support AI research. I integrated Flask-based Python backends with real-time data visualization, built APIs to fetch and render AI model outputs, implemented multi-agent Large Language Model pipelines using Python, LangChain and OpenAI API, and collaborated with graduate researchers to design intuitive UI/UX and SQL-backed data storage. I am passionate about building robust, interactive software systems and applying AI-driven solutions to real-world problems.
+summary : I am a Software and AI Engineer with a Master's in Computer Engineering from the University of Toronto and a Bachelor's in Automation Engineering from McMaster University, specializing in AI, software development, and cloud computing. As an AI Web Application Research Associate at UofT, I developed responsive React web applications with Flask backends for real-time AI visualization, built APIs to fetch model outputs, implemented multi-agent LLM pipelines using Python and LangChain, designed efficient data workflows with SQL, and collaborated with researchers to deliver scalable, interactive software solutions. I am passionate about building robust, interactive software systems and applying AI-driven solutions to real-world problems.
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
@@ -13,8 +13,8 @@ skills:
   # At least 5 skills
   proficient:
     - Python
-    - AI/NLP (LLMs, Multi-agent Architecture, OpenAI API, Prompt Engineering, Langchain)
-    - Machine/ Deep Learning (TensorFlow, Pytorch)
+    - AI/NLP (LLMs, Multi-agent Architecture, OpenAI API, Prompt Engineering, LangChain)
+    - Machine/ Deep Learning (TensorFlow, PyTorch)
     - Linux/Bash
     - RDBMS/SQL
     - Java
@@ -22,7 +22,6 @@ skills:
     - Databricks
     - Git
     - Agile/Scrum
-    - LaTeX
 
   # At least 5 skills
   competent:
@@ -35,11 +34,13 @@ skills:
     - React
     - Angular
     - Django
+    - JUnit  
+    - LaTeX  
 
   # At least 5 skills
   familiar:
     - MATLAB
-    - C
+    - Maven
     - Hadoop
     - Postman
     - Node.js
@@ -52,12 +53,12 @@ jarvis_projects:
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: Developed a Linux cluster monitoring system for Jarvis' LCA team using Docker-contained PostgreSQL to store node performance data. Implemented Bash scripts to automate container lifecycle, database table creation, and data insertion from Linux hardware metrics. Scheduled one-minute interval data collection via crontab and conducted manual testing on GCP virtual machines running Rocky Linux 9. Leveraged Git for version control, centralizing monitoring and reducing manual overhead, enabling administrators to efficiently track system performance and resource usage across multiple clusters.
-#  - name: "Core Java Apps"
-#    git_url: "/core_java"
-#    description:
+  - name: "Core Java Apps"
+    git_url: "/core_java"
+    description:
 #      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-#      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-#      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "Grep App: Developed a Java-based application leveraging object-oriented programming principles, designed to function similarly to the Linux grep command. The tool recursively traverses user-specified directories, identifies matches based on user-provided regex patterns, and stores the results in an output file. Java Streams and Lambda expressions were utilized to enhance performance, while Logback was employed for efficient logging. The application was manually tested and debugged using IntelliJ IDEA to ensure reliability. For deployment, a Docker image was created via a custom Dockerfile, with Maven handling dependency management and Git used for version control."
 #  - name: "Springboot App"
 #    git_url: "/springboot"
 #    description: ""
@@ -85,7 +86,7 @@ highlighted_projects:
     description: Developed an automated Root Cause Analysis (RCA) engine leveraging large language models (GPT-4 via OpenAI API) and prompt engineering to identify incident root causes from cloud system logs and metrics. Designed a multi-agent architecture that iteratively analyzes and ranks potential causes. Utilized the LEMMA-RCA dataset for evaluation, enabling improved incident triage and decision-making efficiency.
   - name: "Sentiment Analysis for Customer Service Ticket Analysis"
     git_url: "https://github.com/KaiqiangZheng1/Customer-Sentiment-Analysis"
-    description: Built and deployed a sentiment analysis application in Docker to classify customer service ticket sentiments. Integrated OpenAI¡¯s NLP API for text analysis and Gradio for an interactive web interface, enabling real-time visualization of sentiment trends and improving customer feedback insights.
+    description: Built and deployed a sentiment analysis application in Docker to classify customer service ticket sentiments. Integrated OpenAI API for text analysis and Gradio for an interactive web interface, enabling real-time visualization of sentiment trends and improving customer feedback insights.
   - name: "Full Stack Semester Project"
     #git_url:
     description: Designed and implemented a full-stack web application using Django, Python, and MySQL for backend logic and data management. Built a responsive frontend using HTML, CSS, Bootstrap, and JavaScript. Containerized the application with Docker for consistent deployment, demonstrating proficiency in full-stack development and cloud deployment workflows.
@@ -104,7 +105,7 @@ professional_experience:
     company: "University of Toronto SG"
     duration: "2024"
     description: "Developed and maintained responsive web applications using React, HTML, CSS, and integrated Python Flask backends to visualize AI model outputs in real time. Collaborated with graduate researchers to design intuitive UI/UX interfaces and integrate SQL databases for experimental data storage. Implemented multi-agent NLP pipelines using Python and OpenAI API, supported scalable AI workflows, and followed Git-based version control and regular code reviews to ensure robust software practices."
-  - title: "Design Technician - Co-op"
+  - title: "Design Technician"
     company: "University of Toronto SG"
     duration: "2022-2023"
     description: "Utilized software tools to code programs and perform calculations, creating accurate design drawings for engineers and ensuring compliance with specifications. Supported busbar design through programming to assist assembly processes. Managed administrative tasks including enrolling new employees and maintaining records, contributing to smooth operational workflows."
@@ -124,7 +125,7 @@ education:
     department: "Automation Engineering"
     awards_achievements:
       - "Graduated with Distinction"
-      - "Scholarship"
+      - "Scholarship for Academic Excellence"
       - "Dean's List (2021, 2022)"
       - "GPA: 3.70/4.0"
 #Optional section
