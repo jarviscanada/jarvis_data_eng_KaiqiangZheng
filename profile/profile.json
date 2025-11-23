@@ -71,9 +71,9 @@
     },
     {
       "bullets": [
+        "Teaching Assistant: Provided one-on-one tutoring in mathematics to summer students, covering algebra and calculus.",
         "Fall ECE Graduate Orientation: Assisted the ECE Graduate Office by participating in a mix-and-mingle reception, addressing student inquiries, and providing information and guidance about the program.",
-        "Talent Show: Completed a wonderful performance by playing the guitar while maintaining a hard study state.",
-        "Teaching Assistant: Provided one-on-one tutoring in mathematics to summer students, covering algebra and calculus."
+        "Talent Show: Completed a wonderful performance by playing the guitar while maintaining a hard study state."
       ],
       "title": "Activities/Hobbies"
     }
@@ -108,13 +108,13 @@
       "Flask",
       "React",
       "Angular",
+      "maven",
       "Django",
       "JUnit",
       "LaTeX"
     ],
     "familiar": [
       "MATLAB",
-      "Maven",
       "Hadoop",
       "Postman",
       "Node.js",

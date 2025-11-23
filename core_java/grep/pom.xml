@@ -58,6 +58,7 @@
   </dependencies>
 
   <build>
+    <!--For JUnit5 -->
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -78,7 +79,7 @@
             <configuration>
               <transformers>
                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                  <mainClass>ca.jrvs.apps.grep.JavaGrepImpl</mainClass>
+                  <mainClass>ca.jrvs.apps.grep.JavaGrepImpl</mainClass> <!--This is .jar entrance point, main class -->
                 </transformer>
               </transformers>
             </configuration>
@@ -97,7 +98,7 @@
 <!--        <version>3.2.5</version>-->
 <!--        <configuration>-->
 <!--          <includes>-->
-<!--            <include>**/JavaGrepImplTest.java</include>-->
+<!--            <include>**/JavaGrepImplTest.java</include>--> <!--if we only want to test this file -->
 <!--          </includes>-->
 <!--        </configuration>-->
 <!--      </plugin>-->

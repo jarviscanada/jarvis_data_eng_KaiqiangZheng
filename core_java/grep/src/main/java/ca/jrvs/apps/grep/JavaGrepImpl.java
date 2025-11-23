@@ -135,7 +135,7 @@ public class JavaGrepImpl implements JavaGrep {
   /**
    * Check if line matches regex
    */
-  private boolean containsPattern(String line) {
+  public boolean containsPattern(String line) {
     return Pattern.compile(regex).matcher(line).find();
   }
 

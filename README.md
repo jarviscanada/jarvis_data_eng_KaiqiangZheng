@@ -6,9 +6,9 @@ I am a Software and AI Engineer with a Master's in Computer Engineering from the
 
 **Proficient:** Python, AI/NLP (LLMs, Multi-agent Architecture, OpenAI API, Prompt Engineering, LangChain), Machine/ Deep Learning (TensorFlow, PyTorch), Linux/Bash, RDBMS/SQL, Java, HTML/CSS, Databricks, Git, Agile/Scrum
 
-**Competent:** C++, JavaScript, Docker, Cloud computing (AWS, Azure, GCP), REST APIs, Flask, React, Angular, Django, JUnit, LaTeX
+**Competent:** C++, JavaScript, Docker, Cloud computing (AWS, Azure, GCP), REST APIs, Flask, React, Angular, maven, Django, JUnit, LaTeX
 
-**Familiar:** MATLAB, Maven, Hadoop, Postman, Node.js, Figma
+**Familiar:** MATLAB, Hadoop, Postman, Node.js, Figma
 
 ## Jarvis Projects
 
@@ -55,6 +55,6 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KaiqiangZh
 - AWS Academy Cloud Foundations Badge (2023)
 - FANUC CERT HandlingTool Operations and Programming (2022)
 - 3rd Place for Best Design in the International Design and Engineering Education Association (IDEEA) Competition (2023)
+- Teaching Assistant: Provided one-on-one tutoring in mathematics to summer students, covering algebra and calculus.
 - Fall ECE Graduate Orientation: Assisted the ECE Graduate Office by participating in a mix-and-mingle reception, addressing student inquiries, and providing information and guidance about the program.
 - Talent Show: Completed a wonderful performance by playing the guitar while maintaining a hard study state.
-- Teaching Assistant: Provided one-on-one tutoring in mathematics to summer students, covering algebra and calculus.
