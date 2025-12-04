@@ -7,4 +7,5 @@ target/
 *.iml
 .idea/
 .eclipse
-.*/
+.*
+!.gitignore
