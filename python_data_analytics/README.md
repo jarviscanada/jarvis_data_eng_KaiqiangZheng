@@ -16,10 +16,10 @@ The architecture consists of:
 - **Output insights** including customer segmentation and analytical recommendations
 - **LGS Web Application**, which could consume the results and present actionable dashboards and targeted marketing strategies to business users
 
-![System Architecture Diagram](./python_data_wrangling/data/System Architecture Diagram.png)
+![System Architecture Diagram](./python_data_wrangling/data/System%20Architecture%20Diagram.png)
 
 ## Data Analytics and Wrangling
-?? Notebook link: [Found Script Here](./python_data_wrangling/retail_data_analytics_wrangling.ipynb)
+Notebook link: [Found Script Here](./python_data_wrangling/retail_data_analytics_wrangling.ipynb)
 
 Customer transaction data was cleaned, aggregated, and transformed to extract business insights.  
 We performed RFM (Recency, Frequency, Monetary) analysis to group customers by value, enabling actions such as:
@@ -33,6 +33,6 @@ We performed RFM (Recency, Frequency, Monetary) analysis to group customers by v
 # Improvements
 - List three improvements that you want to do if you got more time
   
-1. **Automated ETL pipeline** ¡ª schedule weekly refreshes to update segmentation dynamically.
-2. **Dashboard integration** ¡ª visualize insights in Power BI/Tableau or inside the LGS web app.
-3. **Predictive modeling** ¡ª extend RFM into churn prediction or lifetime value forecasting using machine learning.
+1. **Automated ETL pipeline** - schedule weekly refreshes to update segmentation dynamically.
+2. **Dashboard integration** - visualize insights in Power BI/Tableau or inside the LGS web app.
+3. **Predictive modeling** - extend RFM into churn prediction or lifetime value forecasting using machine learning.
