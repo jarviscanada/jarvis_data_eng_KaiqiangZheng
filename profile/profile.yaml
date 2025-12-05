@@ -5,7 +5,7 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_KaiqiangZh
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary : I am a Software and AI Engineer with a Master's in Computer Engineering from the University of Toronto and a Bachelor's in Automation Engineering from McMaster University, specializing in AI, software development, and cloud computing. As an AI Web Application Research Associate at UofT, I developed responsive React web applications with Flask backends for real-time AI visualization, built APIs to fetch model outputs, implemented multi-agent LLM pipelines using Python and LangChain, designed efficient data workflows with SQL, and collaborated with researchers to deliver scalable, interactive software solutions. I am passionate about building robust, interactive software systems and applying AI-driven solutions to real-world problems.
+summary : I am a Software and AI Data Engineer with a Master's in Computer Engineering from the University of Toronto and a Bachelor's in Automation Engineering from McMaster University, specializing in AI, software development, and cloud computing. As an AI Web Application Research Associate at UofT, I developed responsive React web applications with Flask backends for real-time AI visualization, built APIs to fetch model outputs, implemented multi-agent LLM pipelines using Python and LangChain, designed efficient data workflows with SQL, and collaborated with researchers to deliver scalable, interactive software solutions. I am passionate about building robust, interactive software systems and applying AI-driven solutions to real-world problems.
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
@@ -17,7 +17,6 @@ skills:
     - Machine/ Deep Learning (TensorFlow, PyTorch)
     - Linux/Bash
     - RDBMS/SQL
-    - Java
     - HTML/CSS
     - Databricks
     - Git
@@ -25,6 +24,7 @@ skills:
 
   # At least 5 skills
   competent:
+    - Java
     - C++
     - JavaScript
     - Docker
@@ -33,7 +33,7 @@ skills:
     - Flask
     - React
     - Angular
-    - maven
+    - Maven
     - Django
     - JUnit  
     - LaTeX  
@@ -62,9 +62,9 @@ jarvis_projects:
 #  - name: "Springboot App"
 #    git_url: "/springboot"
 #    description: ""
-#  - name: "Python Data Analytics"
-#    git_url: "/python_data_anlytics"
-#    description: ""
+  - name: "Python Data Analytics"
+    git_url: "/python_data_anlytics"
+    description: "Delivered data-driven insights for London Gift Shop (LGS), a London-based online retailer, by transforming historical sales data into actionable recommendations. Built a PostgreSQL data warehouse and performed analysis in Python (NumPy, Pandas, Matplotlib) via Jupyter Notebook. Key tasks included tracking monthly sales and customer growth, and applying RFM (Recency, Frequency, Monetary) segmentation to support targeted marketing. Ensured reproducibility through Docker containerization and maintained workflow with Git version control."
 #  - name: "Hadoop"
 #    git_url: "/hadoop"
 #    description: ""
