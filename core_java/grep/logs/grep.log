@@ -1,0 +1,32 @@
+2025-11-23 00:26:53 INFO  ca.jrvs.apps.grep.JavaGrep - Starting Process: rootPath=./data, regex = .*Romeo.*Juliet.*, outFile = ./out/grep_stream.txt
+2025-11-23 00:26:57 INFO  ca.jrvs.apps.grep.JavaGrep - Writing results to ./out/grep_stream.txt
+2025-11-23 00:26:57 INFO  ca.jrvs.apps.grep.JavaGrep - Write complete
+2025-11-23 00:26:57 INFO  ca.jrvs.apps.grep.JavaGrep - Process completed. Total matched lines: 4
+2025-11-23 00:27:44 INFO  ca.jrvs.apps.grep.JavaGrep - Starting Process: rootPath=./data, regex = .*Romeo.*Juliet.*, outFile = ./out/grep_stream.txt
+2025-11-23 00:27:46 INFO  ca.jrvs.apps.grep.JavaGrep - Writing results to ./out/grep_stream.txt
+2025-11-23 00:27:46 INFO  ca.jrvs.apps.grep.JavaGrep - Write complete
+2025-11-23 00:27:46 INFO  ca.jrvs.apps.grep.JavaGrep - Process completed. Total matched lines: 4
+2025-11-23 05:28:10 INFO  ca.jrvs.apps.grep.JavaGrep - Starting Process: rootPath=./data, regex = .*Romeo.*Juliet.*, outFile = ./out/grep.txt
+2025-11-23 05:28:12 INFO  ca.jrvs.apps.grep.JavaGrep - Writing results to ./out/grep.txt
+2025-11-23 05:28:12 INFO  ca.jrvs.apps.grep.JavaGrep - Write complete
+2025-11-23 05:28:12 INFO  ca.jrvs.apps.grep.JavaGrep - Process completed. Total matched lines: 4
+2025-11-23 05:52:42 INFO  ca.jrvs.apps.grep.JavaGrep - Starting Process: rootPath=./data, regex = .*Romeo.*Juliet.*, outFile = ./out/grep.txt
+2025-11-23 05:52:44 INFO  ca.jrvs.apps.grep.JavaGrep - Writing results to ./out/grep.txt
+2025-11-23 05:52:44 INFO  ca.jrvs.apps.grep.JavaGrep - Write complete
+2025-11-23 05:52:44 INFO  ca.jrvs.apps.grep.JavaGrep - Process completed. Total matched lines: 4
+2025-11-23 19:12:45 INFO  ca.jrvs.apps.grep.JavaGrep - Starting Process: rootPath=./data, regex = .*Romeo.*Juliet.*, outFile = ./out/grep_output.txt
+2025-11-23 19:12:47 INFO  ca.jrvs.apps.grep.JavaGrep - Writing results to ./out/grep_output.txt
+2025-11-23 19:12:47 INFO  ca.jrvs.apps.grep.JavaGrep - Write complete
+2025-11-23 19:12:47 INFO  ca.jrvs.apps.grep.JavaGrep - Process completed. Total matched lines: 4
+2025-11-23 19:12:56 INFO  ca.jrvs.apps.grep.JavaGrep - Starting Process: rootPath=./data, regex = .*Romeo.*Juliet.*, outFile = ./out/grep_output.txt
+2025-11-23 19:12:58 INFO  ca.jrvs.apps.grep.JavaGrep - Writing results to ./out/grep_output.txt
+2025-11-23 19:12:58 INFO  ca.jrvs.apps.grep.JavaGrep - Write complete
+2025-11-23 19:12:58 INFO  ca.jrvs.apps.grep.JavaGrep - Process completed. Total matched lines: 4
+2025-11-23 19:15:07 INFO  ca.jrvs.apps.grep.JavaGrep - Starting Process: rootPath=./data, regex = .*Romeo.*Juliet.*, outFile = ./out/grep.txt
+2025-11-23 19:15:09 INFO  ca.jrvs.apps.grep.JavaGrep - Writing results to ./out/grep.txt
+2025-11-23 19:15:09 INFO  ca.jrvs.apps.grep.JavaGrep - Write complete
+2025-11-23 19:15:09 INFO  ca.jrvs.apps.grep.JavaGrep - Process completed. Total matched lines: 4
+2025-11-23 19:15:25 INFO  ca.jrvs.apps.grep.JavaGrep - Starting Process: rootPath=./data, regex = .*Romeo.*Juliet.*, outFile = ./out/grep.txt
+2025-11-23 19:15:27 INFO  ca.jrvs.apps.grep.JavaGrep - Writing results to ./out/grep.txt
+2025-11-23 19:15:27 INFO  ca.jrvs.apps.grep.JavaGrep - Write complete
+2025-11-23 19:15:27 INFO  ca.jrvs.apps.grep.JavaGrep - Process completed. Total matched lines: 4

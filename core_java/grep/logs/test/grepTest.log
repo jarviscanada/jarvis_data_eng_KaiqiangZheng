@@ -1,0 +1,14 @@
+2025-11-23 00:19:01 INFO  ca.jrvs.apps.grep.JavaGrep - Starting Process: rootPath=/tmp/grepTest2245860058579056950, regex = .*Romeo.*, outFile = /tmp/grepTest2245860058579056950/out.txt
+2025-11-23 00:19:01 INFO  ca.jrvs.apps.grep.JavaGrep - Writing results to /tmp/grepTest2245860058579056950/out.txt
+2025-11-23 00:19:01 INFO  ca.jrvs.apps.grep.JavaGrep - Write complete
+2025-11-23 00:19:01 INFO  ca.jrvs.apps.grep.JavaGrep - Process completed. Total matched lines: 2
+2025-11-23 00:20:20 INFO  ca.jrvs.apps.grep.JavaGrep - Starting Process: rootPath=/tmp/grepTest6172359625541556463, regex = .*Romeo.*, outFile = /tmp/grepTest6172359625541556463/out.txt
+2025-11-23 00:20:21 INFO  ca.jrvs.apps.grep.JavaGrep - Writing results to /tmp/grepTest6172359625541556463/out.txt
+2025-11-23 00:20:21 INFO  ca.jrvs.apps.grep.JavaGrep - Write complete
+2025-11-23 00:20:21 INFO  ca.jrvs.apps.grep.JavaGrep - Process completed. Total matched lines: 2
+2025-11-23 05:50:52 INFO  ca.jrvs.apps.grep.JavaGrepImplTest - These are the files under the dir:
+[src/test/resources/logback.xml, src/test/resources/shakespeare.txt]
+2025-11-23 05:50:52 INFO  ca.jrvs.apps.grep.JavaGrep - Starting Process: rootPath=/tmp/grepTest2669998349424378643, regex = .*Romeo.*, outFile = /tmp/grepTest2669998349424378643/out.txt
+2025-11-23 05:50:52 INFO  ca.jrvs.apps.grep.JavaGrep - Writing results to /tmp/grepTest2669998349424378643/out.txt
+2025-11-23 05:50:52 INFO  ca.jrvs.apps.grep.JavaGrep - Write complete
+2025-11-23 05:50:52 INFO  ca.jrvs.apps.grep.JavaGrep - Process completed. Total matched lines: 2
