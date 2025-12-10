@@ -1,14 +1,14 @@
 # Kaiqiang Zheng . Jarvis Consulting
 
-I am a Software and AI Data Engineer with a Master's in Computer Engineering from the University of Toronto and a Bachelor's in Automation Engineering from McMaster University, specializing in AI, software development, and cloud computing. As an AI Web Application Research Associate at UofT, I developed responsive React web applications with Flask backends for real-time AI visualization, built APIs to fetch model outputs, implemented multi-agent LLM pipelines using Python and LangChain, designed efficient data workflows with SQL, and collaborated with researchers to deliver scalable, interactive software solutions. I am passionate about building robust, interactive software systems and applying AI-driven solutions to real-world problems.
+I am a Software and AI Data Engineer with a Master's in Computer Engineering from the University of Toronto and a Bachelor's in Automation Engineering from McMaster University, specializing in AI, software development, and cloud computing. As an AI Web Application Research Associate at UofT, I developed responsive React web applications with Flask backends for real-time AI visualization, built APIs to fetch model outputs, implemented multi-agent LLM pipelines using Python and LangChain, and designed reliable ETL/ELT data pipelines and SQL-based data models on cloud platforms such as Azure to support scalable AI workflows. I am passionate about building scalable, data-driven systems and delivering efficient, production-ready data and AI solutions.
 
 ## Skills
 
 **Proficient:** Python, AI/NLP (LLMs, Multi-agent Architecture, OpenAI API, Prompt Engineering, LangChain), Machine/ Deep Learning (TensorFlow, PyTorch), Linux/Bash, RDBMS/SQL, HTML/CSS, Databricks, Git, Agile/Scrum
 
-**Competent:** Java, C++, JavaScript, Docker, Cloud computing (AWS, Azure, GCP), REST APIs, Flask, React, Angular, Maven, Django, JUnit, LaTeX
+**Competent:** Java, C++, JavaScript, Docker, Cloud computing (AWS, Azure, GCP), REST APIs, Flask, Maven, JUnit, LaTeX
 
-**Familiar:** MATLAB, Hadoop, Postman, Node.js, Figma
+**Familiar:** Django, Spring Boot, React, Angular, Hadoop, Postman, Node.js, MATLAB, Figma
 
 ## Jarvis Projects
 
@@ -19,7 +19,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KaiqiangZh
 
 **Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KaiqiangZheng/tree/master/core_java)]:
       
-  - JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
+  - JDBC App: Developed a stock quote management application that allows users to track their investments, buy, and sell stocks. The application integrates a real-time stock data REST API and stores stock information in a PostgreSQL database via JDBC. A command-line interface (CLI) was created for users to simulate transactions and monitor the performance of their portfolio. Additionally, SLF4J logging was implemented to capture and log any errors that occur during application execution. The project leveraged Maven for efficient dependency management, Docker for containerization and deployment, and was thoroughly tested with JUnit and Mockito to ensure reliability and high code quality throughout the development process.
   - Grep App: Developed a Java-based application leveraging object-oriented programming principles, designed to function similarly to the Linux grep command. The tool recursively traverses user-specified directories, identifies matches based on user-provided regex patterns, and stores the results in an output file. Java Streams and Lambda expressions were utilized to enhance performance, while Logback was employed for efficient logging. The application was manually tested and debugged using IntelliJ IDEA to ensure reliability. For deployment, a Docker image was created via a custom Dockerfile, with Maven handling dependency management and Git used for version control.
 
 **Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KaiqiangZheng/tree/master/python_data_anlytics)]: Delivered data-driven insights for London Gift Shop (LGS), a London-based online retailer, by transforming historical sales data into actionable recommendations. Built a PostgreSQL data warehouse and performed analysis in Python (NumPy, Pandas, Matplotlib) via Jupyter Notebook. Key tasks included tracking monthly sales and customer growth, and applying RFM (Recency, Frequency, Monetary) segmentation to support targeted marketing. Ensured reproducibility through Docker containerization and maintained workflow with Git version control.
