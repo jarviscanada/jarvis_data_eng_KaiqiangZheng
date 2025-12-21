@@ -4,9 +4,9 @@ I am a Software and AI Data Engineer with a Master's in Computer Engineering fro
 
 ## Skills
 
-**Proficient:** Python, AI/NLP (LLMs, Multi-agent Architecture, OpenAI API, Prompt Engineering, LangChain), Machine/ Deep Learning (TensorFlow, PyTorch), Linux/Bash, RDBMS/SQL, HTML/CSS, Databricks, Git, Agile/Scrum
+**Proficient:** Python, AI/NLP (LLMs, Multi-agent Architecture, OpenAI API, Prompt Engineering, LangChain), Machine/Deep Learning, Linux/Bash, RDBMS/SQL, HTML/CSS, Spark, Databricks, Git, Agile/Scrum
 
-**Competent:** Java, C++, JavaScript, Docker, Cloud computing (AWS, Azure, GCP), REST APIs, Flask, Maven, JUnit, LaTeX
+**Competent:** Java, C++, JavaScript, Docker, Cloud Computing (AWS, Azure, GCP), REST APIs, Flask, Airflow, Maven, JUnit, LaTeX
 
 **Familiar:** Django, Spring Boot, React, Angular, Hadoop, Postman, Node.js, MATLAB, Figma
 
@@ -24,6 +24,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KaiqiangZh
 
 **Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KaiqiangZheng/tree/master/python_data_anlytics)]: Delivered data-driven insights for London Gift Shop (LGS), a London-based online retailer, by transforming historical sales data into actionable recommendations. Built a PostgreSQL data warehouse and performed analysis in Python (NumPy, Pandas, Matplotlib) via Jupyter Notebook. Key tasks included tracking monthly sales and customer growth, and applying RFM (Recency, Frequency, Monetary) segmentation to support targeted marketing. Ensured reproducibility through Docker containerization and maintained workflow with Git version control.
 
+**Spark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KaiqiangZheng/tree/master/spark)]: Built a distributed data analytics pipeline using Apache Spark (PySpark) to efficiently process large customer transaction datasets for a marketing team. Assessed and compared Zeppelin (Hadoop-based) and Databricks (AWS-based) Spark environments to evaluate scalability and processing efficiency. Utilized Delta Lake on Databricks and HDFS on Zeppelin, with Hive Metastore for metadata and schema management. Conducted transaction and retention analysis using Spark's structured APIs, delivering insights that improved marketing segmentation and targeting strategies.
+
 
 ## Highlighted Projects
 **SherlockGPT: Root Cause Analysis with Large Language Model** [[GitHub](https://github.com/KaiqiangZheng1/ECE1786)]: Developed an automated Root Cause Analysis (RCA) engine leveraging large language models (GPT-4 via OpenAI API) and prompt engineering to identify incident root causes from cloud system logs and metrics. Designed a multi-agent architecture that iteratively analyzes and ranks potential causes. Utilized the LEMMA-RCA dataset for evaluation, enabling improved incident triage and decision-making efficiency.
@@ -35,7 +37,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KaiqiangZh
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2025-present)**: Developed and maintained scalable software solutions within an Agile/Scrum framework using Linux, Bash, SQL, Git, Java, and Docker. Contributed to multiple projects, designing and implementing efficient backend systems, optimizing database performance, and streamlining deployment processes. Participated in sprint planning, daily stand-ups, and retrospectives to ensure iterative progress and high-quality delivery. Leveraged big data technologies such as Apache Spark and Databricks to handle large datasets and build robust data processing pipelines.
+**Data Engineer, Jarvis (2025-present)**: Developed and maintained scalable software solutions within an Agile/Scrum framework using Linux, Bash, SQL, Git, Java, and Docker. Contributed to multiple projects, designing and implementing efficient backend systems, optimizing database performance, and streamlining deployment processes. Participated in sprint planning, daily stand-ups, and retrospectives to ensure iterative progress and high-quality delivery. Leveraged big data technologies such as Apache Spark and Databricks to handle large datasets and build robust data processing pipelines.
 
 **AI Web Application Research Associate, University of Toronto SG (2024)**: Developed and maintained responsive web applications using React, HTML, CSS, and integrated Python Flask backends to visualize AI model outputs in real time. Collaborated with graduate researchers to design intuitive UI/UX interfaces and integrate SQL databases for experimental data storage. Implemented multi-agent NLP pipelines using Python and OpenAI API, supported scalable AI workflows, and followed Git-based version control and regular code reviews to ensure robust software practices.
 
