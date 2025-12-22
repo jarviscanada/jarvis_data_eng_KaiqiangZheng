@@ -3,7 +3,7 @@
 ### Business Context
 The London Gift Shop (LGS) has successfully utilized data analytics to improve marketing campaign effectiveness and customer retention. However, as the company expands, the volume of transactional data has grown exponentially. The previous analytics solution, built on a single-node architecture (local Jupyter Notebook with Pandas), is no longer capable of processing this data volume efficiently and faces performance bottlenecks.
 
-To address this, LGS is migrating its data infrastructure to a distributed computing model. This project serves as a Proof of Concept (PoC) to re-architect the data solution using Apache Spark. The goal is to enable scalable big data processing and to evaluate two distinct cloud-based Spark environments¡ªDatabricks on Azure and Zeppelin on Hadoop (GCP)¡ªto determine the best fit for the company's long-term data strategy.
+To address this, LGS is migrating its data infrastructure to a distributed computing model. This project serves as a Proof of Concept (PoC) to re-architect the data solution using Apache Spark. The goal is to enable scalable big data processing and to evaluate two distinct cloud-based Spark environments - Databricks on Azure and Zeppelin on Hadoop (GCP) - to determine the best fit for the company's long-term data strategy.
 
 
 ### Technologies & Frameworks
