@@ -1,0 +1,1 @@
+SILVER_PRICES price parquet data stored here

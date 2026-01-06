@@ -1,0 +1,1 @@
+GOLD_ANALYTICS price parquet data stored here
