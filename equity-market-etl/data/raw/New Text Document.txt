@@ -1,0 +1,1 @@
+raw csv data folders here (comapny_info_and_logos & us_stocks_etfs)
