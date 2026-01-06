@@ -1,0 +1,10 @@
+# Database Config // server should be the postgres-container-name
+db-class=org.postgresql.Driver
+server=jrvs-psql
+database=stock_quote
+port=5432
+username=postgres
+password=password
+
+# Alpha Vantage Config (REAL_API_KEY_HERE)
+api-key=a3dbdd601fmshff8d40763377696p187a68jsnbc83700e5817
